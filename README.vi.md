@@ -1,4 +1,5 @@
-# Chef Mistral 🍳
+# Chef Mistral
+*(Tiếng Việt | [English](./README.md))*
 
 Một website gợi ý công thức nấu ăn đơn giản, được xây dựng bằng **React + Vite** và sử dụng **Mistral AI của Hugging Face**.  
 Chỉ cần nhập những nguyên liệu bạn đang có trong bếp, và đầu bếp sẽ gợi ý công thức mới cho bạn!
