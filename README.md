@@ -3,6 +3,8 @@
 A simple cooking recipe recommendation website built with **React + Vite** and powered by **Hugging Face’s Mistral AI**.  
 Just give the chef all that you have in your kitchen and discover new recipes!
 
+Built while learning React from Bob Ziroll's course on Scrimba.
+
 ## Setup
 1. Clone the repo: `git clone https://github.com/sock1000kg/ChefMistral`
 2. Download dependencies: `npm install`
