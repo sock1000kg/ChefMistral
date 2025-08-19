@@ -14,3 +14,5 @@ Just give the chef all that you have in your kitchen and discover new recipes!
 4. Start dev server: `npm run dev`
 
 ## Screenshots
+<img width="1895" height="920" alt="screenshot-1755580690329" src="https://github.com/user-attachments/assets/916c4cbf-7286-41fd-9316-3470e02f7d8e" />
+<img width="1893" height="920" alt="screenshot-1755580868295" src="https://github.com/user-attachments/assets/59fe0833-3402-4ed2-a9b7-2d44d1ba0462" />
