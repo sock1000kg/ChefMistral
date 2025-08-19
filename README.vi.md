@@ -14,3 +14,5 @@ Chỉ cần nhập những nguyên liệu bạn đang có trong bếp, và đầ
 4. Chạy server dev: `npm run dev`
 
 ## Hình ảnh
+<img width="1895" height="920" alt="screenshot-1755580690329" src="https://github.com/user-attachments/assets/24287457-c848-4da5-aee9-692973037403" />
+<img width="1893" height="920" alt="screenshot-1755580868295" src="https://github.com/user-attachments/assets/a50f1d45-eb0f-4049-9aa2-75a2b8af36de" />
