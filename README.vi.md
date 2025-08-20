@@ -8,7 +8,7 @@ Chỉ cần nhập những nguyên liệu bạn đang có trong bếp, và đầ
 
 ## Cài đặt
 1. Tạo bản sao repo: `git clone https://github.com/sock1000kg/ChefMistral`
-2. Cài đặt dependencies: `npm install`
+2. Cài đặt dependencies: `npm install` (bạn cần tải Node.js và npm trên máy trước)
 3. Sao chép `.env.example` vào `.env` và thay Hugging Face token của bạn:
 - Tạo tài khoản Hugging Face
 - Vào Settings -> Access Tokens
