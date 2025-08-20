@@ -8,7 +8,7 @@ Built while learning React from **Bob Ziroll's** course on **Scrimba**.
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/sock1000kg/ChefMistral`
-2. Download dependencies: `npm install`
+2. Download dependencies: `npm install` (Make sure you have installed Node.js and npm installed on your machine)
 3. Copy `.env.example` to `.env` and add your Hugging Face token:
 - Create a Hugging Face account
 - Go to Settings -> Access Tokens
